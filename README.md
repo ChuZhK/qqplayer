@@ -39,24 +39,24 @@ __Javafx、数据库编程、多线程编程、文件处理、泛型编程与lam
 
 
 ### 系统测试
-> 1. 音乐播放、主界面显示、进度条、歌词显示、频谱显示功能：
+> 1. 音乐播放、主界面显示、进度条、歌词显示、频谱显示功能：    
 ![img-20220622151626](https://user-images.githubusercontent.com/100141391/179643747-76cfc75d-f401-45d2-ac68-6b2517746312.png)
 
 
-> 2、添加歌曲界面
+> 2、添加歌曲界面     
 ![img-20220622151650](https://user-images.githubusercontent.com/100141391/179643795-04252f86-3d09-4aea-9f18-2c0dea5f82a2.png)
 
-> 3. 登录界面
+> 3. 登录界面    
 ![img-20220622151708](https://user-images.githubusercontent.com/100141391/179643837-1f68435b-ecce-4ba4-b0b1-c6cb3ace33d0.png)
 
-> 4. 切换主题功能
-![img-20220622151814](https://user-images.githubusercontent.com/100141391/179644080-f1fdc493-6fee-4965-aefd-f0b53c34a934.png)
+> 4. 切换主题功能    
+![img-20220622151814](https://user-images.githubusercontent.com/100141391/179644080-f1fdc493-6fee-4965-aefd-f0b53c34a934.png)   
 ![img-20220622151817](https://user-images.githubusercontent.com/100141391/179644100-1158f227-16bd-4326-b516-065cbef323cc.png)
 
 
 
-> 5. 音量滑块拖动
+> 5. 音量滑块拖动   
 ![img-20220622151918](https://user-images.githubusercontent.com/100141391/179643968-c8490ad5-8f08-4596-88e9-a300f099c53e.png)
 
 
-注：本项目主要参考
+注：本项目主要参考： `https://github.com/leewyatt`
