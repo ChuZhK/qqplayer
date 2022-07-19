@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: null;
+    -fx-background-image: url("../img/loader.png");
+}
+
+.log-in Region{
+    -fx-background-color: #1ECE9A;
+}
+
+.log-up Region{
+    -fx-background-color: white;
+}
+
+.win-label{
+    -fx-background-color: null;
+    -fx-pref-width:150;
+    -fx-pref-height:100;
+    -fx-font-family: "华文行楷";
+    -fx-text-fill:linear-gradient(from 0.0% 0.0% to 100.0% 0.0%, #8139b5ff 0.0%, #fd1e1cff 50.0%, #fbaf46ff 100.0%);
+    -fx-font-size:56;
+}
