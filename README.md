@@ -59,4 +59,4 @@ __Javafx、数据库编程、多线程编程、文件处理、泛型编程与lam
 ![img-20220622151918](https://user-images.githubusercontent.com/100141391/179643968-c8490ad5-8f08-4596-88e9-a300f099c53e.png)
 
 
-注：本项目主要参考： `https://github.com/leewyatt`
+注：本项目主要参考： `https://github.com/leewyatt/simple-musicplayer`
